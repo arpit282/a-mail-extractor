@@ -40,7 +40,7 @@ To start the server just run in the Terminal:
 ```markdown
 Preview of the A_mail.com application
 ```
-![a_mail](https://live.staticflickr.com/65535/49855783046_315b1c67e8_m.jpg)  ![a_mail1](https://live.staticflickr.com/65535/49856575057_51e34cc4c0_m.jpg) ![amail](https://live.staticflickr.com/65535/49855740028_4f16468cb1_m.jpg)
+![a_mail](https://live.staticflickr.com/65535/49855755158_f97a382773_m.jpg)   ![amail](https://live.staticflickr.com/65535/49855740028_4f16468cb1_m.jpg)
 
 ```markdown
  DEMO OF APPLICATION(a_mail.com)
