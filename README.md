@@ -33,6 +33,7 @@ automically whenever you save changes in the main js file(app.js)
 ```
 To start the server just run in the Terminal:
 **npm run dev**
+
 ![Terminal Window](https://live.staticflickr.com/65535/49855800371_e84704c5ab_m.jpg)
 
 
