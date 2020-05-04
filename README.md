@@ -4,7 +4,7 @@
 
 ```markdown
 You can use the 
-[arpit282](https://github.com/arpit282/a-mail-extractor/edit/master/README.md) 
+[arpit282](https://github.com/arpit282/a-mail-extractor) 
 
 to maintain and preview the content for your website in Markdown files.
 ```
