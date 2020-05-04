@@ -1,7 +1,10 @@
+
+
 ## Welcome to a_mail.com Services
 
 ```markdown
-You can use the [arpit282](https://github.com/arpit282/a-mail-extractor/edit/master/README.md) 
+You can use the 
+[arpit282](https://github.com/arpit282/a-mail-extractor/edit/master/README.md) 
 
 to maintain and preview the content for your website in Markdown files.
 ```
@@ -42,7 +45,7 @@ To start the server just run in the Terminal:
 ###DEMO OF APPLICATION(a_mail.com)
 ```markdown
 For demo of the APPLICATION go on 
-[a_mail.com](https://arp-mail.herokuapp.com/index.html).
+![a_mail.com](https://arp-mail.herokuapp.com/index.html).
 ```
 
 
