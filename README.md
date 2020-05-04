@@ -1,16 +1,13 @@
 
 
-## Welcome to a_mail.com Services
+# Welcome to a_mail.com Services
 
-```markdown
-You can use the 
-[arpit282](https://github.com/arpit282/a-mail-extractor) 
 
-to maintain and preview the content for your website in Markdown files.
-```
-### How to run on local machine ?
+## You can use the [arpit282](https://github.com/arpit282/a-mail-extractor) to maintain and preview the content for your website in Markdown files.
 
-```markdown
+## How to run on local machine ?
+
+
 You have to set up your node js packages by installing:
 .nodejs
 .expressjs
@@ -30,22 +27,24 @@ automically whenever you save changes in the main js file(app.js)
     "dev":"nodemon app"
   }
 
-```
-###RUNNING THE SERVER THROUGH TERMINAL
+
 ```markdown
+ RUNNING THE SERVER THROUGH TERMINAL
+```
 To start the server just run in the Terminal:
 **npm run dev**
 ![Terminal Window](https://live.staticflickr.com/65535/49855800371_e84704c5ab_m.jpg)
 
-```
+
 
 ```markdown
-![a_mail](https://live.staticflickr.com/65535/49855783046_315b1c67e8_m.jpg)
+Preview of the A_mail.com application
 ```
-###DEMO OF APPLICATION(a_mail.com)
+![a_mail](https://live.staticflickr.com/65535/49855783046_315b1c67e8_m.jpg)  ![a_mail1](https://live.staticflickr.com/65535/49856575057_51e34cc4c0_m.jpg) ![amail](https://live.staticflickr.com/65535/49855740028_4f16468cb1_m.jpg)
+
 ```markdown
-For demo of the APPLICATION go on 
-![a_mail.com](https://arp-mail.herokuapp.com/index.html).
+ DEMO OF APPLICATION(a_mail.com)
 ```
+For demo of the APPLICATION go on [a_mail.com](https://arp-mail.herokuapp.com/index.html).
 
 
